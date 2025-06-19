@@ -17,19 +17,8 @@ tsc
 
 
 # Difference between interface and type in TypeScript
-_Exported on 6/19/2025 at 08:30:03 GMT+5 from Cursor (1.0.0)_
 
----
-
-**User**
-
-what is the difference interface vs type in typscript.
-
----
-
-**Cursor**
-
-Great question! In TypeScript, both interface and type can be used to describe the shape of an object or a structure, but there are some important differences and use cases for each.
+In TypeScript, both interface and type can be used to describe the shape of an object or a structure, but there are some important differences and use cases for each.
 
 ### 1. Syntax and Use
 
